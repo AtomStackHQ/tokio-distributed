@@ -1,0 +1,10 @@
+[package]
+name = "tokio-distributed"
+version = "0.1.0"
+edition = "2024"
+description = "A distruted extension of tokio"
+repository = "https://github.com/AtomStackHQ/tokio-distributed"
+license-file = "LICENSE.txt"
+keywords = ["tokio", "distributed"]
+
+[dependencies]
