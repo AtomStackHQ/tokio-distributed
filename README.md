@@ -10,5 +10,4 @@ This crate provides a distributed runtime built on top of tokio that allows spaw
 - **Node Scheduling**: Kubernetes-style tags, taints, and tolerations
 - **Multiple Transports**: Process-based (IPC) and network-based communication
 - **Security by Default**: mTLS and decentralized authentication
-- **Zero Dependencies**: Hand-rolled implementations for static linking
 - **Complete Observability**: Metrics for tasks, channels, and cluster state
