@@ -6,5 +6,6 @@ description = "A distruted extension of tokio"
 repository = "https://github.com/AtomStackHQ/tokio-distributed"
 license-file = "LICENSE.txt"
 keywords = ["tokio", "distributed"]
+readme = "README.md"
 
 [dependencies]
